@@ -16,3 +16,7 @@ branches: the different segments of your project.
 
 I would use fork on github, clone to copy a file to my local machine and
 branches when i want to test out a new feature in my project.
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+Helps in merging new files. you can easily find the differences.
