@@ -13,3 +13,15 @@ by adding one file at a time to the staging area
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 keeping different versions of the same program
+
+How do the diagrams help you visualize the branch structure?
+help understand the contents in the different branches
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+Combining the two types of code together to make one program.
+so that we easily make sense out of it all.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+Manual merges enable one to resolve conflicts by selecting which changes to add.
